@@ -1,0 +1,6 @@
+PID RUID EUID USER COMMAND
+   3338  1000     0 root     fusermount3
+   6031  1000     0 root     su
+   6160  1234     0 root     passwd
+   6599  1000     0 root     sudo
+   6629  1000     0 root     sudo
